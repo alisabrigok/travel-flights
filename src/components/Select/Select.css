@@ -1,0 +1,29 @@
+.selectContainer > div {
+  background-color: transparent;
+  border-color: rgba(0, 0, 0, 0.42);
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-radius: 0;
+  padding-bottom: 0;
+}
+
+.selectContainer > div:hover {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.87);
+}
+
+.selectContainer > div > div {
+  padding-left: 0;
+}
+
+.selectContainer > div > div + div > span {
+  background-color: transparent;
+}
+
+.selectContainer > div > div + div > span + div {
+  color: transparent;
+}
+
+.selectContainer > div > div + div > span + div:hover {
+  color: transparent;
+}

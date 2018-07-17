@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  background-image: linear-gradient(
+      to right,
+      rgba(42, 212, 199, 0.4) rgba(42, 212, 199, 0.4)
+    ),
+    url(./assets/paperplane.jpg);
+  background-size: cover;
+  background-position: top;
+  height: 100vh;
+}
+
+body {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: #f50057;
+  color: #fff;
+}

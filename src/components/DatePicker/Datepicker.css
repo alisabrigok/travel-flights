@@ -1,0 +1,12 @@
+.pickerContainer input {
+  padding-top: 8px;
+  padding-bottom: 11px;
+}
+
+.pickerContainer > div > div::after {
+  border-bottom: 0px;
+  transition: none;
+}
+.pickerContainer > div {
+  width: 100%;
+}

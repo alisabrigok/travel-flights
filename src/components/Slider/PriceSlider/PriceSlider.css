@@ -1,0 +1,14 @@
+.slider > div > div > div {
+  background-color: #333;
+}
+
+.slider > div > div > div + button {
+  background-color: #f50057;
+}
+
+.min {
+  text-align: left;
+}
+.max {
+  float: right;
+}

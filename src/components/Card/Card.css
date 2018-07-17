@@ -1,0 +1,21 @@
+.card {
+  margin-bottom: 16px;
+  transition: transform 0.4s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+.card hr {
+  border: 1px solid rgba(0, 0, 0, 0.42);
+}
+
+.card p {
+  color: #333;
+}
+
+.card > div {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 2px solid #333;
+}

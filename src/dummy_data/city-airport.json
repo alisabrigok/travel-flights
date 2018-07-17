@@ -1,0 +1,26 @@
+[
+  {
+    "code": "IST",
+    "name": "İstanbul Atatürk (IST)"
+  },
+  {
+    "code": "ESB",
+    "name": "Ankara Esenboğa (ESB)"
+  },
+  {
+    "code": "ADB",
+    "name": "İzmir Adnan Menderes (ADB)"
+  },
+  {
+    "code": "AYT",
+    "name": "Antalya (AYT)"
+  },
+  {
+    "code": "TZX",
+    "name": "Trabzon (TZX)"
+  },
+  {
+    "code": "ADA",
+    "name": "Adana (ADA)"
+  }
+]
